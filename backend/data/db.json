@@ -1,0 +1,86 @@
+{
+  "prompts": [
+    {
+      "id": "fb29e428-f0cb-4004-81e8-66d98249ca6e",
+      "title": "Explain Code Like I'm Five",
+      "content": "Explain the following code as if you were teaching a complete beginner. Break down what each part does in plain language, avoid jargon, and use an analogy if it helps:\n\n{code}",
+      "category": "Coding",
+      "tags": [
+        "explanation",
+        "learning",
+        "beginner"
+      ],
+      "description": "Get a beginner-friendly walkthrough of any code snippet.",
+      "isFavorite": true,
+      "isPinned": true,
+      "order": 0,
+      "createdAt": "2026-08-14T08:44:48.248Z",
+      "updatedAt": "2026-08-14T08:44:48.248Z"
+    },
+    {
+      "id": "5ff5cf20-388d-4ce6-a880-64a8bac27984",
+      "title": "Optimize SQL Query",
+      "content": "Review the following SQL query and suggest optimizations for performance, indexing, and readability. Explain the reasoning behind each change:\n\n{query}",
+      "category": "SQL",
+      "tags": [
+        "optimization",
+        "performance"
+      ],
+      "description": "Analyze and improve a slow or messy SQL query.",
+      "isFavorite": false,
+      "isPinned": false,
+      "order": 1,
+      "createdAt": "2026-08-14T08:44:48.248Z",
+      "updatedAt": "2026-08-14T08:44:48.248Z"
+    },
+    {
+      "id": "8ff3d8de-592a-4f84-a22a-99a16b636966",
+      "title": "Weekly Marketing Email",
+      "content": "Write a warm, conversational weekly newsletter email for {product}. Highlight one key update, include a clear call to action, and keep it under 200 words.",
+      "category": "Email",
+      "tags": [
+        "newsletter",
+        "copywriting"
+      ],
+      "description": "Draft a short, friendly newsletter email in minutes.",
+      "isFavorite": true,
+      "isPinned": false,
+      "order": 2,
+      "createdAt": "2026-08-14T08:44:48.248Z",
+      "updatedAt": "2026-08-14T08:44:48.248Z"
+    },
+    {
+      "id": "9f614bc6-d842-4c35-904d-ce1bfeac7be7",
+      "title": "Resume Bullet Rewriter",
+      "content": "Rewrite the following resume bullet points to be more results-driven, using strong action verbs and quantifiable outcomes where possible:\n\n{bullets}",
+      "category": "Resume",
+      "tags": [
+        "career",
+        "rewrite"
+      ],
+      "description": "Turn flat resume bullets into achievement-focused lines.",
+      "isFavorite": false,
+      "isPinned": false,
+      "order": 3,
+      "createdAt": "2026-08-14T08:44:48.248Z",
+      "updatedAt": "2026-08-14T08:44:48.248Z"
+    },
+    {
+      "id": "692e969e-2b8a-4e37-9b88-474f886eafd4",
+      "title": "Write a Professional Email",
+      "content": "Write a professional email to {recipient} about {topic}. Keep the tone polite and concise, include a clear subject line, and end with an appropriate call to action.",
+      "category": "Email",
+      "tags": [
+        "work",
+        "formal",
+        "business"
+      ],
+      "description": "Draft a polite, professional email for any workplace situation",
+      "isFavorite": false,
+      "isPinned": false,
+      "order": 4,
+      "createdAt": "2026-08-14T09:27:31.557Z",
+      "updatedAt": "2026-08-14T09:27:31.557Z"
+    }
+  ]
+}
